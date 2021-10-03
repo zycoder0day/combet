@@ -176,7 +176,7 @@ if (browserok) {
 
 </script>
 <center><div id=q><font face="cabin" size="8" color ="red">[ <font color="white">One Hat Cyber Team <font color="red">]</font><br><font face="Sarpanch" size="3" color="white">- Mr.Combet - Tu4n Private 404 - Pir4t3cyb3r - Drayso - Mr.Pin666 - Mr.Quixter_Phground - Mr.Casper - IbalGanz -<br><font size="5"><u><font color="red">info.ohct</u><font color="grey">@<font color ="white">hackermail.com<br><br>
-<button class="lagu" onclick="play();liat();"><font face="courier new" size="2" color="white">CLICK TO PLAY MUSIC</font></button><audio id="lagu" src="https://b.top4top.io/m_1649r9s8i0.mp3"></audio>
+<button class="lagu" onclick="play();liat();"><font face="courier new" size="2" color="white">CLICK TO PLAY MUSIC</font></button><audio id="lagu" src="https://f.top4top.io/m_1936neik80.mp3"></audio>
 <style type="text/css">.lagu{background:transparent;border:1px solid red;font-family:Share\ Tech\ Mono;color:;font-size:10px;font-weight:normal;padding:2px 25px;text-decoration:none;text-shadow:0 0 0px #15cff4}</style>
 <script>
     function play(){var audio=document.getElementById('lagu');audio.play();}function liat(){document.getElementById('galiat').style.visibility='visible';}</script>
