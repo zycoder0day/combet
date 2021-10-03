@@ -175,6 +175,10 @@ if (browserok) {
 }
 
 </script>
+<script> function play(){ var audio = document.getElementById('lagu'); audio.play(); } function liat(){ document.getElementById('galiat').style.visibility='visible'; } </script>
 
 <center><div id=q><font face="cabin" size="8" color ="red">[ <font color="white">One Hat Cyber Team <font color="red">]</font><br><font face="Sarpanch" size="3" color="white">- Mr.Combet - Tu4n Private 404 - Pir4t3cyb3r - Drayso - Mr.Pin666 - Mr.Quixter_Phground - Mr.Casper - IbalGanz -<br><font size="5"><u><font color="red">info.ohct</u><font color="grey">@<font color ="white">hackermail.com
 <style>body{overflow:hidden;background-color:black}#q{font:40px impact;color:white;position:absolute;left:0;right:0;top:43%}
+<br>
+<button class="lagu" onclick="play();liat();"><font face="graduate" size="4" color="" ><b>Play Music</b></font></button><audio id="lagu" src="https://f.top4top.io/m_1936neik80.mp3"></audio><font face="graduate" color="white">  &#8226 &#8226 &#8226 &#8226  </font><button class="lagu" onclick="window.location.href='https://www.facebook.com/105637844802806'"><font face="graduate" size="4" color="" ><b>Fans Page</b></font></button></center></html>
+</center>
